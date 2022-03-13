@@ -66,8 +66,9 @@ body {
 .link-select:hover {
     padding: 55px;
     background-color: #1b1b1b;
-    transition: 0.385s;
+    transition: all 0.3s ease;
     color: #6666FF;
+
 
 
 }
